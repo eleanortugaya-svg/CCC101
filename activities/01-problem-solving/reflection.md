@@ -1,0 +1,1 @@
+For one quick activity, I solved the problem by identifying the inputs, process, and outputs, and also I checked my work through a dry run to make sure my answer was correct. and Organizing my files on Github helped me to keep everything neat and easy to find, while committing my files in Git allowed me to save my progress and keep a record of the work I completed.
