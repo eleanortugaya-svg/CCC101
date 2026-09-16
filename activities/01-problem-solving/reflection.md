@@ -1,1 +1,0 @@
-For quick activity, I completed my task by identifying the inputs, processes, and outputs needed to solve the problem. I also performed a dry run to verify that my solutions and my answer was correct. Keeping my files organized in GitHub made them easier to manage and locate, while using Git commits helped me save my progress and maintain a record of the work I had done.
